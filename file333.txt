@@ -1,9 +1,3 @@
-testik
 riadok1
-<<<<<<< HEAD
-riadok5
+riadok2
 riadok3
-=======
-riadok7
-riadok3
->>>>>>> 5cec61fd135ac2d26437ff4616f403a9936e4dce
